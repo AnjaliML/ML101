@@ -5,3 +5,6 @@
 */*.pkl
 datasets*
 data*
+
+*.pth
+*/*.pth
