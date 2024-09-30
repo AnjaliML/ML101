@@ -8,3 +8,11 @@ data*
 
 *.pth
 */*.pth
+
+events*
+
+model*
+
+*.pbtxt
+
+runs*
